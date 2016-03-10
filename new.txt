@@ -1,0 +1,3 @@
+
+Onizuka@DESKTOP-7H32UH6 MINGW64 ~
+$ git config -
